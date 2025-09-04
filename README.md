@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About me
--2006.02.15
+- 2006.02.15
 
--한신대 재학중
+- 한신대 재학중
 
 
 <p align="center">
