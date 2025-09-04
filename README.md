@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 ## About me
 -2006.02.15
+
 -한신대 재학중
 
 
