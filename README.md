@@ -13,7 +13,7 @@
 - **한 줄 소개**: `[자신을 나타내는 한 줄 소개를 적어보세요]`
 >>>>>>> e9d8457af0771c67ee1d46a38d6f599c5d821546
 
-<<<<<<< HEAD
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
