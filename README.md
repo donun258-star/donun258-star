@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## about me
--한신대 25학번
+ -한신대 25학번
 -
