@@ -2,13 +2,39 @@
 
 <br/>
 
+<<<<<<< HEAD
+<!--
+**donun258-star/donun258-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+=======
 ## 👨‍💻 소개 (About Me)
 - **이름**: 김도윤
 - **소속**: 한신대학교
-- **이메일**: `[이메일 주소를 입력하세요]`
+- **이메일**: `[donun258@hs.ac.kr]`
 - **한 줄 소개**: `[자신을 나타내는 한 줄 소개를 적어보세요]`
+>>>>>>> e9d8457af0771c67ee1d46a38d6f599c5d821546
 
+<<<<<<< HEAD
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+## About me
+- 2006.02.15
+
+- 한신대 재학 중
+
+
+<p align="center">
+=======
 <br/>
+>>>>>>> e9d8457af0771c67ee1d46a38d6f599c5d821546
 
 ## 🛠️ 기술 스택 (Tech Stack)
 > 주로 사용하는 기술 스택을 아이콘으로 예쁘게 꾸며보세요.
